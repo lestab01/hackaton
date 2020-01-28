@@ -1,0 +1,11 @@
+les requirements (materiel, logiciel)
+
+Afin de pouvoir utiliser l’application :
+- il est nécessaire de posséder un serveur 
+une base de données en Postgressql et non mysql pour éviter tout problème de syntaxes lors de l’execution du script.
+
+
+les étapes pour installer le projet
+
+executer le script de creation est remplissage de la base de données 
+Décompresser le fichier hack et le mettre sur le serveur dans le dossier htdocs du serveur 
